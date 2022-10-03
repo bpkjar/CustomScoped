@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Global" source="global">global</dependency>
+        <min_version/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-03 12:28:29</sys_created_on>
+        <sys_id>f08cb2fd479a9110e24ba368436d4328</sys_id>
+        <sys_package display_value="Sample Business" source="x_871165_sample_bu">db3c7abd479a9110e24ba368436d439e</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

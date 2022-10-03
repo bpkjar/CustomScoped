@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_871165_sample_bu_reservation_queries">x_871165_sample_bu_reservation_queries</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>RES</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-03 12:28:29</sys_created_on>
+        <sys_id>7c8cb2fd479a9110e24ba368436d4334</sys_id>
+        <sys_name>RES</sys_name>
+        <sys_package display_value="Sample Business" source="x_871165_sample_bu">db3c7abd479a9110e24ba368436d439e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample Business">db3c7abd479a9110e24ba368436d439e</sys_scope>
+        <sys_update_name>sys_number_7c8cb2fd479a9110e24ba368436d4334</sys_update_name>
+    </sys_number>
+</record_update>

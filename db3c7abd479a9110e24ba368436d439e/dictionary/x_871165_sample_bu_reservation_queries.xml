@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b88c72fd479a9110e24ba368436d4379" extends="u_passenger_reservation_system" label="Reservation Queries" max_length="40" name="x_871165_sample_bu_reservation_queries" type="collection"/>
+</database>
